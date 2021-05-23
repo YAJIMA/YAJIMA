@@ -7,10 +7,11 @@
 
 ## Connect with me
 
-[<img src="https://img.icons8.com/wired/48/000000/domain.png"/>][website]
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
-[<img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>][linkedin]
+[![Website](https://img.icons8.com/wired/48/000000/domain.png)][website]
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)][facebook]
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)][twitter]
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin-2--v1.png)][linkedin]
+[![GMail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:yajima@hatchbit.jp)
 
 ## Languages 💻
 
