@@ -7,6 +7,7 @@
 
 ## Connect with me
 
+[<img src="https://img.icons8.com/wired/64/000000/domain.png"/>][website]
 [<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
 [<img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"/>][linkedin]
