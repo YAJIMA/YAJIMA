@@ -34,17 +34,44 @@
 
 ## Tools 🪛
 
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS 
-![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker 
-![Git](https://img.icons8.com/color/48/000000/git.png) Git 
-![GitHub](https://img.icons8.com/color/48/000000/github--v1.png) GitHub 
-![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) IntelliJ  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript 
-![Laravel](https://img.icons8.com/ios-filled/48/000000/laravel.png) Laravel 
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL 
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSql  
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code 
-![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress  
+<table>
+<tr>
+<th>AWS</th>
+<th>Docker</th>
+<th>Git</th>
+<th>GitHub</th>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/docker.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/git.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48" /></td>
+</tr>
+<tr>
+<th>IntelliJ</th>
+<th>JavaScript</th>
+<th>Laravel</th>
+<th>MySQL</th>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/ios-filled/48/000000/laravel.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" /></td>
+</tr>
+<tr>
+<th>PostgreSql</th>
+<th>Visual Studio Code</th>
+<th>WordPress</th>
+<th></th>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" /></td>
+<td align="center" valign="middle"><img src="https://img.icons8.com/color/48/000000/wordpress.png" width="48" /></td>
+<td align="center" valign="middle"></td>
+</tr>
+</table>
 
 
 [website]: https://www.hatchbit.jp
