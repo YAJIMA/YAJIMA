@@ -15,22 +15,9 @@
 
 ## Languages 💻
 
-<table>
-<tr>
-<td align="center" valign="middle">
-<img src="https://img.icons8.com/ios/48/000000/asp.png" width="48"> ASP  
-</td>
-<td align="center" valign="middle">
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="48"> CSS3
-</td>
-<td align="center" valign="middle">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48"> HTML5
-</td>
-<td align="center" valign="middle">
-<img src="https://img.icons8.com/ios/48/000000/php-logo.png" width="48"> PHP
-</td>
-</tr>
-</table>
+![PHP](https://www.php.net/images/logos/new-php-logo.png)
+![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_128.png)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/128px-CSS3_logo.svg.png)
 
 ## Tools 🪛
 
@@ -72,8 +59,6 @@
 <td align="center" valign="middle"></td>
 </tr>
 </table>
-
-ほげほげ
 
 [website]: https://www.hatchbit.jp
 [twitter]: https://twitter.com/webparty
