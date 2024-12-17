@@ -19,7 +19,7 @@ jobs:
       - name: Install TeX Live and Japanese fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-fonts-extra fonts-noto-cjk
+          sudo apt-get install -y texlive-xetex texlive-lang-japanese texlive-fonts-recommended texlive-fonts-extra fonts-noto-cjk
 
       - name: Convert Markdown to PDF with custom settings
         run: pandoc docs/resume.md -o career_history.pdf --pdf-engine=xelatex -V geometry:margin=1in -V geometry:left=1in -V geometry:right=0.8in -V geometry:top=1in -V geometry:bottom=1in -V mainfont="Noto Serif CJK JP" -V linestretch=1.2 -V fontsize=11pt -V CJKmainfont="Noto Serif CJK JP" --include-in-header=assets/header.tex
