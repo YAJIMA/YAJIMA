@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Check out the repository
@@ -16,8 +16,8 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Install wkhtmltopdf
-        run: sudo apt-get install -y wkhtmltopdf
+      - name: Install TeX Live
+        run: sudo apt-get update && sudo apt-get install -y texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
       - name: Convert Markdown to PDF
         run: pandoc docs/resume.md -o career_history.pdf
