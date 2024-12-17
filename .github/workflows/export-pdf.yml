@@ -16,11 +16,13 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
 
-      - name: Install TeX Live
-        run: sudo apt-get update && sudo apt-get install -y texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+      - name: Install TeX Live and Japanese fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-fonts-extra fonts-noto-cjk
 
-      - name: Convert Markdown to PDF
-        run: pandoc docs/resume.md -o career_history.pdf
+      - name: Convert Markdown to PDF with xelatex
+        run: pandoc docs/resume.md -o career_history.pdf --pdf-engine=xelatex --variable mainfont="Noto Serif CJK JP"
 
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v3
