@@ -1,0 +1,29 @@
+name: Generate PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Install wkhtmltopdf
+        run: sudo apt-get install -y wkhtmltopdf
+
+      - name: Convert Markdown to PDF
+        run: pandoc docs/resume.md -o career_history.pdf
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: career-history
+          path: career_history.pdf
