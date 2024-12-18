@@ -23,8 +23,8 @@
 
 <table>
   <tr>
-    <td><img src="https://findy-code.io/images/badges/phper_star_1.svg" width="48" alt="憧れのPHPer" /></td>
-    <td><img src="https://findy-code.io/images/badges/jser_commit_10.svg" width="48" alt="一人前JSer" /></td>
+    <td><img src="https://findy-code.io/images/badges/phper_star_1.svg" width="96" alt="憧れのPHPer" /></td>
+    <td><img src="https://findy-code.io/images/badges/jser_commit_10.svg" width="96" alt="一人前JSer" /></td>
   </tr>
 </table>
 
