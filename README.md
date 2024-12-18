@@ -19,6 +19,15 @@
 ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_128.png)
 ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/128px-CSS3_logo.svg.png)
 
+## Badge
+
+<table>
+  <tr>
+    <td><img src="https://findy-code.io/images/badges/phper_star_1.svg" width="48" alt="憧れのPHPer" /></td>
+    <td><img src="https://findy-code.io/images/badges/jser_commit_10.svg" width="48" alt="一人前JSer" /></td>
+  </tr>
+</table>
+
 ## Tools 🪛
 
 <table>
