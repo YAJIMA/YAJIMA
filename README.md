@@ -1,30 +1,27 @@
 # Hi there 👋 I am Yuichiro YAJIMA. 
 
+[![Static Badge](https://img.shields.io/badge/HatchBit%26Co.-lightgrey?style=flat)][website]
+[![Static Badge](https://img.shields.io/badge/webparty-grey?style=flat&logo=X)][twitter]
+[![Static Badge](https://img.shields.io/badge/yajiman-white?style=flat&logo=zenn)][zenn]
+[![Static Badge](https://img.shields.io/badge/YAJIMA-%23fff?style=flat&logo=qiita)][qiita]
+[![Static Badge](https://img.shields.io/badge/yuichiro.yajima-blue?style=flat&logo=facebook)][facebook]
+[![Static Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat)][linkedin]
+[![Static Badge](https://img.shields.io/badge/yajima%40hatchbit.jp-white?style=flat&logo=gmail)](mailto:yajima@hatchbit.jp)
+
 ## About me
 
 - I am a backend developer working in Chiba, Japan.
 - I use daily: `.php`, `.js`, `.html`, `.css`, `.gitignore`
 
-## Connect with me
-
-[![Website](https://img.icons8.com/wired/48/000000/domain.png)][website]
-[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)][facebook]
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)][twitter]
-[![Linkedin](https://img.icons8.com/color/48/000000/linkedin-2--v1.png)][linkedin]
-[![GMail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:yajima@hatchbit.jp)
-
-## Languages 💻
-
-![PHP](https://www.php.net/images/logos/new-php-logo.png)
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_128.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/128px-CSS3_logo.svg.png)
-
 ## Badge
 
-<table>
+<table style="border: none;">
   <tr>
+    <td><img src="https://findy-code.io/images/badges/contribution_4000.svg" width="96" alt="累計コントリビューション4000" /></td>
     <td><img src="https://findy-code.io/images/badges/phper_star_1.svg" width="96" alt="憧れのPHPer" /></td>
-    <td><img src="https://findy-code.io/images/badges/jser_commit_10.svg" width="96" alt="一人前JSer" /></td>
+    <td><img src="https://findy-code.io/images/badges/jser_star_1.svg" width="96" alt="憧れのJSer" /></td>
+    <td><img src="https://findy-code.io/images/badges/skill_deviation_2025_sh_70.svg" width="96" alt="2025年下半期スキル偏差値70" /></td>
+    <td><img src="https://findy-code.io/images/badges/contribution_of_the_year_2025_silver.svg" width="96" alt="2025年コントリビューション 500+" /></td>
   </tr>
 </table>
 
@@ -70,6 +67,8 @@
 </table>
 
 [website]: https://www.hatchbit.jp
-[twitter]: https://twitter.com/webparty
+[twitter]: https://x.com/webparty
 [facebook]: https://www.facebook.com/yuichiro.yajima
 [linkedin]: http://linkedin.com/in/yuichiro-yajima
+[zenn]: https://zenn.dev/yajiman
+[qiita]: https://qiita.com/YAJIMA
