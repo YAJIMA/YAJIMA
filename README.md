@@ -1,11 +1,11 @@
 # Hi there 👋 I am Yuichiro YAJIMA. 
 
-[![Static Badge](https://img.shields.io/badge/HatchBit%26Co.-lightgrey?style=flat)][website]
-[![Static Badge](https://img.shields.io/badge/webparty-grey?style=flat&logo=X)][twitter]
+[![Static Badge](https://img.shields.io/badge/HatchBit%26Co.-white?style=flat)][website]
+[![Static Badge](https://img.shields.io/badge/webparty-lightgrey?style=flat&logo=X)][twitter]
 [![Static Badge](https://img.shields.io/badge/yajiman-white?style=flat&logo=zenn)][zenn]
-[![Static Badge](https://img.shields.io/badge/YAJIMA-%23fff?style=flat&logo=qiita)][qiita]
-[![Static Badge](https://img.shields.io/badge/yuichiro.yajima-blue?style=flat&logo=facebook)][facebook]
-[![Static Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat)][linkedin]
+[![Static Badge](https://img.shields.io/badge/YAJIMA-white?style=flat&logo=qiita)][qiita]
+[![Static Badge](https://img.shields.io/badge/yuichiro.yajima-lightgrey?style=flat&logo=facebook)][facebook]
+[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=flat)][linkedin]
 [![Static Badge](https://img.shields.io/badge/yajima%40hatchbit.jp-white?style=flat&logo=gmail)](mailto:yajima@hatchbit.jp)
 
 ## About me
