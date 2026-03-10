@@ -25,7 +25,7 @@ jobs:
         run: pandoc docs/resume.md -o career_history.pdf --pdf-engine=xelatex -V geometry:margin=1in -V geometry:left=1in -V geometry:right=0.8in -V geometry:top=1in -V geometry:bottom=1in -V mainfont="Noto Serif CJK JP" -V linestretch=1.2 -V fontsize=11pt -V CJKmainfont="Noto Serif CJK JP" --include-in-header=assets/header.tex
 
       - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: career-history
           path: career_history.pdf
